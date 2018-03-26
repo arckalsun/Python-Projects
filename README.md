@@ -1,2 +1,2 @@
 # Python-Projects
-Some python projects
+一些自己练手的python项目
